@@ -35,16 +35,8 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![Bhavya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bhavyasrivalli&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bhavyasrivalli&layout=compact&theme=tokyonight)
-
----
-
 ## 🌐 Connect with Me
 
 - LinkedIn: https://www.linkedin.com/in/kesireddy-bhavya-srivalli-b842b73a3/
 - Email: bhavyasrivallik@gmail.com
-  
+ 
