@@ -1,22 +1,22 @@
 # Hi there, I'm Bhavya SriValli 👋
 
-🎓 Third-year Chemical Engineering student at NIT Warangal  
-💻 Aspiring Software Engineer | Web Developer | DSA Enthusiast  
-🌱 Currently learning Backend Development, Data Structures & Algorithms, and the MERN Stack  
-🚀 Passionate about building impactful projects and continuously improving my problem-solving skills
+ Third-year Chemical Engineering student at NIT Warangal  
+ Aspiring Software Engineer | Web Developer | DSA Enthusiast  
+ Currently learning Backend Development, Data Structures & Algorithms, and the MERN Stack  
+ Passionate about building impactful projects and continuously improving my problem-solving skills
 
 ---
 
-## 🚀 About Me
+## About Me
 
-- 🔭 I'm currently working on backend development projects and strengthening my DSA skills.
-- 🌱 I'm currently learning Node.js, Express.js, MongoDB, and REST APIs.
-- 💡 Interested in Software Development, Full-Stack Web Development, and AI-powered applications.
-- 👯 Looking to collaborate on beginner-friendly open-source and web development projects.
+-  I'm currently working on backend development projects and strengthening my DSA skills.
+-  I'm currently learning Node.js, Express.js, MongoDB, and REST APIs.
+-  Interested in Software Development, Full-Stack Web Development, and AI-powered applications.
+-  Looking to collaborate on beginner-friendly open-source and web development projects.
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 **Languages**
 - C++
